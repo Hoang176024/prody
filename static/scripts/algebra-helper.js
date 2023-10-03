@@ -106,6 +106,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
+      name: "gbf",
+      link: "http://game.granbluefantasy.jp/",
+      image: "/images/icons/apps/gbf.png",
+      categories: ["all", "media"],
+      error: false
+    },
+    {
       name: "HBO MAX",
       link: "https://www.hbomax.com/",
       image: "/images/icons/apps/hbo.webp",
