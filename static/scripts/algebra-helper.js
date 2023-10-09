@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "freemovieswatch.tv",
+      name: "Free Movies Watch",
       link: "https://freemovieswatch.tv",
       image: "/images/icons/freemovieswatch.png",
       categories: ["all", "media", "stream"],
@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Discord",
-      link: "https://discord.com",
+      link: "https://canary.discord.com",
       image: "/images/icons/apps/discord.jpg",
       categories: ["all", "social"],
       error: false
@@ -102,13 +102,6 @@ document.addEventListener('DOMContentLoaded', () => {
       name: "Google",
       link: "https://google.com",
       image: "/images/icons/apps/google.png",
-      categories: ["all", "media"],
-      error: false
-    },
-    {
-      name: "gbf",
-      link: "http://game.granbluefantasy.jp/",
-      image: "/images/icons/apps/gbf.png",
       categories: ["all", "media"],
       error: false
     },
@@ -248,10 +241,17 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Discord - Login",
-      link: "https://discord.com/login",
+      link: "https://canary.discord.com/login",
       image: "/images/icons/discord.jpg",
       categories: ["all", "social"],
       blank: "true",
+      error: false
+    },
+    {
+      name: "HD Today",
+      link: "https://hdtoday.tv",
+      image: "/images/icons/hd.png",
+      categories: ["all", "media", "stream"],
       error: false
     },
   ];
